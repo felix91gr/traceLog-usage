@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TraceLog",
+        "repositoryURL": "https://github.com/tonystone/tracelog/",
+        "state": {
+          "branch": null,
+          "revision": "bc120b0444b8c96796e4008b5eaa092bc95ea136",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
