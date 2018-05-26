@@ -1,3 +1,4 @@
+import Foundation
 import TraceLog
 
 TraceLog.configure(writers: [ConsoleWriter()], environment: ["LOG_ALL": "TRACE4"])
@@ -9,3 +10,5 @@ for _ in 0..<100 {
 }
 
 print("Goodbye!")
+
+sleep(20)
